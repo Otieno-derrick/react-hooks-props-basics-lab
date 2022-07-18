@@ -32,8 +32,8 @@ nav a {
   margin: 0 1rem;
   text-decoration: none;
   font-size: 1.2em;
-  color: firebrick;
-  border-bottom: 2px solid firebrick;
+  color: #b22222;
+  border-bottom: 2px solid #b22222;
   transition: 0.1s;
 }
 
